@@ -49,6 +49,7 @@ Documentation:
    4) parse json and add information to variants data strucutre
    5) get rsid information from variants data structure and via REST call to EnsEmbl get MAF
    6) write variants data structure (dictionary of dictionaries) to tsv file
+5) run.sh = example how to run the tool
 
 Notes:
 1. Depth of sequence coverage at the site of variation.
