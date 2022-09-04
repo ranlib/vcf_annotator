@@ -288,7 +288,7 @@ if __name__ == "__main__":
         "--output",
         dest="tsv_output",
         type=str,
-        help="output tsv file",
+        help="output tsv file with annotated variants",
         required=True,
     )
     parser.add_argument(
@@ -296,7 +296,7 @@ if __name__ == "__main__":
         "--json",
         dest="json_output",
         type=str,
-        help="output json file",
+        help="output json file for annotation data from EnsEmbl",
         required=True,
     )
     parser.add_argument(
@@ -304,7 +304,7 @@ if __name__ == "__main__":
         "--population",
         dest="json_population_output",
         type=str,
-        help="output json file for population information",
+        help="output json file for population information from EnsEmbl",
         required=True,
     )
     parser.add_argument(

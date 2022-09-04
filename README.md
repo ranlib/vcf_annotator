@@ -16,11 +16,11 @@ optional arguments:
   -i VCF_INPUT, --input VCF_INPUT
                         input vcf file
   -o TSV_OUTPUT, --output TSV_OUTPUT
-                        output tsv file
+                        output tsv file with annotated variants
   -j JSON_OUTPUT, --json JSON_OUTPUT
-                        output json file
+                        output json file for annotation data from EnsEmbl
   -p JSON_POPULATION_OUTPUT, --population JSON_POPULATION_OUTPUT
-                        output json file for population information
+                        output json file for population information from EnsEmbl
   -r SERVER, --server SERVER
                         EnsEMBL server to use (default=https://grch37.rest.ensembl.org)
   -v, --verbose         turn on debugging output
@@ -38,7 +38,9 @@ Documentation:
    with about 11,000 rows this takes about 2 hours one-at-a-time calls
    because no all variants have annotation information
 3) data structure that hold the information and information is added
-   to variants = dictionary index on hgvs terms, each entry =
+   to
+
+   variants = dictionary, index on hgvs terms, each entry =
    dictionary of annotation information
 4) procedure has 6 steps:
 
@@ -49,7 +51,16 @@ Documentation:
    4) parse json and add information to variants data strucutre
    5) get rsid information from variants data structure and via REST call to EnsEmbl get MAF
    6) write variants data structure (dictionary of dictionaries) to tsv file
-5) run.sh = example how to run the tool
+5) run.sh = example how to run the tool, 
+
+   for example, to run on small test data set ```small_test_vcf_data.vcf```
+
+```
+time vcf_annotator_post.py -i small_test_vcf_data.vcf -o output_post_small_test_vcf_data.tsv -j output_post_small_test_vcf_data.json -p output_post_small_test_vcf_population.json -v -q -m 
+```
+
+```output_post_small_test_vcf_data.tsv``` is the tsv file output with annotated variants.
+
 
 Notes:
 1. Depth of sequence coverage at the site of variation.
