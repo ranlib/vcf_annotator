@@ -1,0 +1,690 @@
+[
+    {
+        "synonyms": [
+            "NM_001365226.1:c.72A>G",
+            "NM_001365228.1:c.438A>G",
+            "NM_001365228.1:c.438A>T",
+            "NM_031284.5:c.438A>T",
+            "NM_031284.5:c.438A>C",
+            "NM_001365227.1:c.438A>T",
+            "NM_001365226.1:c.72A>C",
+            "NM_001365223.1:c.72A>T",
+            "NM_001365228.1:c.438A>C",
+            "NM_031284.4:c.438G>T",
+            "NM_031284.5:c.438A>G",
+            "NM_001365226.1:c.72A>T",
+            "NM_001365225.1:c.438A>C",
+            "NM_001365225.1:c.438A>G",
+            "NM_001365223.1:c.72A>G",
+            "NM_031284.4:c.438G>C",
+            "NM_001365227.1:c.438A>G",
+            "NM_001365223.1:c.72A>C",
+            "NM_001365227.1:c.438A>C",
+            "NM_031284.4:c.438G>A",
+            "NM_001365225.1:c.438A>T",
+            "rs17857854",
+            "rs58218050",
+            "rs17845072"
+        ],
+        "minor_allele": "T",
+        "most_severe_consequence": "synonymous_variant",
+        "mappings": [
+            {
+                "start": 73067234,
+                "allele_string": "T/A/C/G",
+                "ancestral_allele": "C",
+                "location": "15:73067234-73067234",
+                "assembly_name": "GRCh37",
+                "seq_region_name": "15",
+                "strand": 1,
+                "coord_system": "chromosome",
+                "end": 73067234
+            }
+        ],
+        "evidence": [
+            "Frequency",
+            "1000Genomes",
+            "ESP",
+            "ExAC",
+            "TOPMed",
+            "gnomAD"
+        ],
+        "name": "rs11634630",
+        "MAF": 0.03994,
+        "var_class": "SNP",
+        "source": "Variants (including SNPs and indels) imported from dbSNP",
+        "ambiguity": "N"
+    },
+    {
+        "ambiguity": "N",
+        "minor_allele": "C",
+        "synonyms": [
+            "rs10355716",
+            "rs59113817",
+            "rs117400033",
+            "NM_001205315.2:c.224G>T",
+            "NM_001205315.2:c.224G>C",
+            "NM_024636.3:c.224G>T",
+            "NM_001205315.1:c.224G>C",
+            "NM_024636.3:c.224G>A",
+            "NM_001205316.1:c.224G>T",
+            "NM_001205316.2:c.224G>A",
+            "NP_001192244.1:p.Gly75Val",
+            "NP_078912.2:p.Gly75Asp",
+            "NM_024636.4:c.224G>C",
+            "NM_001205315.1:c.224G>A",
+            "NM_001205316.1:c.224G>A",
+            "NP_001192245.1:p.Gly75Asp",
+            "NM_024636.3:c.224G>C",
+            "NP_001192245.1:p.Gly75Ala",
+            "NM_001205316.2:c.224G>C",
+            "NM_024636.4:c.224G>A",
+            "NM_001205316.2:c.224G>T",
+            "NP_078912.2:p.Gly75Val",
+            "NP_001192244.1:p.Gly75Ala",
+            "NP_001192245.1:p.Gly75Val",
+            "NM_001205315.1:c.224G>T",
+            "NM_024636.4:c.224G>T",
+            "NM_001205315.2:c.224G>A",
+            "NP_001192244.1:p.Gly75Asp",
+            "NM_001205316.1:c.224G>C",
+            "NP_078912.2:p.Gly75Ala",
+            "VAR_031976"
+        ],
+        "evidence": [
+            "Frequency",
+            "1000Genomes",
+            "Cited",
+            "ESP",
+            "ExAC",
+            "TOPMed",
+            "gnomAD"
+        ],
+        "mappings": [
+            {
+                "coord_system": "chromosome",
+                "end": 87913361,
+                "ancestral_allele": "T",
+                "assembly_name": "GRCh37",
+                "strand": 1,
+                "seq_region_name": "7",
+                "location": "7:87913361-87913361",
+                "allele_string": "C/A/G/T",
+                "start": 87913361
+            }
+        ],
+        "name": "rs1981529",
+        "var_class": "SNP",
+        "most_severe_consequence": "missense_variant",
+        "source": "Variants (including SNPs and indels) imported from dbSNP",
+        "MAF": 0.1488
+    },
+    {
+        "var_class": "SNP",
+        "name": "rs7251976",
+        "most_severe_consequence": "intron_variant",
+        "MAF": 0.4593,
+        "source": "Variants (including SNPs and indels) imported from dbSNP",
+        "ambiguity": "N",
+        "minor_allele": "C",
+        "synonyms": [
+            "rs61086593"
+        ],
+        "mappings": [
+            {
+                "end": 20735272,
+                "ancestral_allele": "C",
+                "coord_system": "chromosome",
+                "seq_region_name": "19",
+                "strand": 1,
+                "assembly_name": "GRCh37",
+                "allele_string": "T/A/C/G",
+                "location": "19:20735272-20735272",
+                "start": 20735272
+            },
+            {
+                "ancestral_allele": null,
+                "end": 20663275,
+                "coord_system": "chromosome",
+                "start": 20663275,
+                "location": "HG730_PATCH:20663275-20663275",
+                "allele_string": "T/A/C/G",
+                "strand": 1,
+                "seq_region_name": "HG730_PATCH",
+                "assembly_name": "GRCh37"
+            }
+        ],
+        "evidence": [
+            "Frequency",
+            "1000Genomes",
+            "Cited",
+            "ESP",
+            "ExAC",
+            "TOPMed",
+            "gnomAD"
+        ]
+    },
+    {
+        "mappings": [
+            {
+                "seq_region_name": "9",
+                "assembly_name": "GRCh37",
+                "location": "9:96375814-96375814",
+                "ancestral_allele": "G",
+                "allele_string": "A/G/T",
+                "start": 96375814,
+                "end": 96375814,
+                "coord_system": "chromosome",
+                "strand": 1
+            }
+        ],
+        "name": "rs2994367",
+        "evidence": [
+            "Frequency",
+            "1000Genomes",
+            "TOPMed",
+            "gnomAD"
+        ],
+        "var_class": "SNP",
+        "MAF": 0.1829,
+        "ambiguity": "D",
+        "source": "Variants (including SNPs and indels) imported from dbSNP",
+        "synonyms": [
+            "rs60029494"
+        ],
+        "minor_allele": "A",
+        "most_severe_consequence": "intron_variant"
+    },
+    {
+        "evidence": [
+            "Frequency",
+            "1000Genomes",
+            "ESP",
+            "ExAC",
+            "TOPMed",
+            "gnomAD"
+        ],
+        "source": "Variants (including SNPs and indels) imported from dbSNP",
+        "name": "rs7572583",
+        "minor_allele": "A",
+        "mappings": [
+            {
+                "start": 202469472,
+                "strand": 1,
+                "ancestral_allele": "G",
+                "coord_system": "chromosome",
+                "assembly_name": "GRCh37",
+                "location": "2:202469472-202469472",
+                "end": 202469472,
+                "seq_region_name": "2",
+                "allele_string": "A/C/G/T"
+            }
+        ],
+        "synonyms": [],
+        "var_class": "SNP",
+        "ambiguity": "N",
+        "most_severe_consequence": "intron_variant",
+        "MAF": 0.02236
+    },
+    {
+        "synonyms": [
+            "PA166153607",
+            "rs17857662",
+            "rs57469912",
+            "rs17844932",
+            "rs17859787",
+            "VAR_034656",
+            "NP_001308701.1:p.Glu239Gly",
+            "NM_020317.5:c.716A>G",
+            "NM_001321772.1:c.716A>G",
+            "NM_020317.4:c.716A>G",
+            "NM_020317.3:c.716A>G",
+            "NP_064713.3:p.Glu239Gly"
+        ],
+        "source": "Variants (including SNPs and indels) imported from dbSNP",
+        "ambiguity": "Y",
+        "evidence": [
+            "Frequency",
+            "1000Genomes",
+            "Cited",
+            "ESP",
+            "Phenotype_or_Disease",
+            "ExAC",
+            "TOPMed",
+            "gnomAD"
+        ],
+        "name": "rs1043879",
+        "var_class": "SNP",
+        "most_severe_consequence": "missense_variant",
+        "MAF": 0.1078,
+        "mappings": [
+            {
+                "ancestral_allele": "T",
+                "seq_region_name": "1",
+                "assembly_name": "GRCh37",
+                "end": 25570081,
+                "start": 25570081,
+                "coord_system": "chromosome",
+                "allele_string": "T/C",
+                "location": "1:25570081-25570081",
+                "strand": 1
+            }
+        ],
+        "minor_allele": "C"
+    },
+    {
+        "name": "rs4759231",
+        "evidence": [
+            "Frequency",
+            "1000Genomes",
+            "ESP",
+            "ExAC",
+            "TOPMed",
+            "gnomAD"
+        ],
+        "mappings": [
+            {
+                "assembly_name": "GRCh37",
+                "seq_region_name": "12",
+                "ancestral_allele": "G",
+                "location": "12:53714496-53714496",
+                "allele_string": "A/C/G/T",
+                "start": 53714496,
+                "end": 53714496,
+                "coord_system": "chromosome",
+                "strand": 1
+            }
+        ],
+        "ambiguity": "N",
+        "source": "Variants (including SNPs and indels) imported from dbSNP",
+        "MAF": 0.06789,
+        "var_class": "SNP",
+        "synonyms": [
+            "rs59341996"
+        ],
+        "most_severe_consequence": "non_coding_transcript_exon_variant",
+        "minor_allele": "A"
+    },
+    {
+        "mappings": [
+            {
+                "coord_system": "chromosome",
+                "location": "1:204006597-204006597",
+                "end": 204006597,
+                "start": 204006597,
+                "seq_region_name": "1",
+                "ancestral_allele": "G",
+                "strand": 1,
+                "allele_string": "G/A",
+                "assembly_name": "GRCh37"
+            }
+        ],
+        "MAF": 0.1356,
+        "evidence": [
+            "Frequency",
+            "1000Genomes",
+            "Cited",
+            "ESP",
+            "ExAC",
+            "TOPMed",
+            "gnomAD"
+        ],
+        "ambiguity": "R",
+        "most_severe_consequence": "non_coding_transcript_exon_variant",
+        "source": "Variants (including SNPs and indels) imported from dbSNP",
+        "minor_allele": "G",
+        "var_class": "SNP",
+        "name": "rs4951039",
+        "synonyms": [
+            "rs52817238",
+            "rs60201144",
+            "VAR_047356"
+        ]
+    },
+    {
+        "name": "rs10205485",
+        "mappings": [
+            {
+                "coord_system": "chromosome",
+                "assembly_name": "GRCh37",
+                "start": 20403794,
+                "end": 20403794,
+                "strand": 1,
+                "seq_region_name": "2",
+                "ancestral_allele": "T",
+                "location": "2:20403794-20403794",
+                "allele_string": "A/G/T"
+            }
+        ],
+        "source": "Variants (including SNPs and indels) imported from dbSNP",
+        "evidence": [
+            "Frequency",
+            "1000Genomes",
+            "ESP",
+            "ExAC",
+            "TOPMed",
+            "gnomAD"
+        ],
+        "var_class": "SNP",
+        "synonyms": [
+            "VAR_052243",
+            "rs17857995",
+            "rs17845185",
+            "rs52826372",
+            "rs13023107",
+            "NM_002997.5:c.407T>A",
+            "NP_001006947.1:p.Gln136Leu",
+            "NM_002997.4:c.407A>T",
+            "NM_002997.4:c.407A>C",
+            "NM_001006946.1:c.407A>T",
+            "NP_002988.4:p.Leu136Pro",
+            "NP_001006947.1:p.Gln136Pro",
+            "NM_001006946.1:c.407A>C",
+            "NP_002988.4:p.Leu136Gln",
+            "NM_002997.5:c.407T>C"
+        ],
+        "MAF": 0.03315,
+        "most_severe_consequence": "missense_variant",
+        "ambiguity": "D",
+        "minor_allele": "A"
+    },
+    {
+        "source": "Variants (including SNPs and indels) imported from dbSNP",
+        "evidence": [
+            "Frequency",
+            "1000Genomes",
+            "Cited",
+            "ESP",
+            "ExAC",
+            "TOPMed",
+            "gnomAD"
+        ],
+        "name": "rs1805193",
+        "mappings": [
+            {
+                "ancestral_allele": "C",
+                "start": 169702772,
+                "strand": 1,
+                "seq_region_name": "1",
+                "allele_string": "C/A",
+                "end": 169702772,
+                "location": "1:169702772-169702772",
+                "coord_system": "chromosome",
+                "assembly_name": "GRCh37"
+            }
+        ],
+        "minor_allele": "A",
+        "synonyms": [
+            "rs17527200",
+            "rs3917401",
+            "NM_000450.2:c.-19G>T"
+        ],
+        "var_class": "SNP",
+        "ambiguity": "M",
+        "MAF": 0.05491,
+        "most_severe_consequence": "5_prime_UTR_variant"
+    },
+    {
+        "source": "Variants (including SNPs and indels) imported from dbSNP",
+        "name": "rs8033879",
+        "ambiguity": "Y",
+        "minor_allele": "T",
+        "most_severe_consequence": "intergenic_variant",
+        "mappings": [
+            {
+                "strand": 1,
+                "coord_system": "chromosome",
+                "end": 98932798,
+                "location": "15:98932798-98932798",
+                "assembly_name": "GRCh37",
+                "seq_region_name": "15",
+                "ancestral_allele": "T",
+                "allele_string": "C/T",
+                "start": 98932798
+            }
+        ],
+        "MAF": 0.4684,
+        "synonyms": [
+            "rs12908248",
+            "rs17644732"
+        ],
+        "var_class": "SNP",
+        "evidence": [
+            "Frequency",
+            "1000Genomes",
+            "ESP",
+            "TOPMed",
+            "gnomAD"
+        ]
+    },
+    {
+        "name": "rs7973666",
+        "var_class": "SNP",
+        "minor_allele": "G",
+        "source": "Variants (including SNPs and indels) imported from dbSNP",
+        "most_severe_consequence": "non_coding_transcript_exon_variant",
+        "ambiguity": "D",
+        "synonyms": [
+            "rs52838176",
+            "rs60307839"
+        ],
+        "evidence": [
+            "Frequency",
+            "1000Genomes",
+            "TOPMed",
+            "gnomAD"
+        ],
+        "MAF": 0.2796,
+        "mappings": [
+            {
+                "assembly_name": "GRCh37",
+                "allele_string": "A/G/T",
+                "strand": 1,
+                "ancestral_allele": "A",
+                "seq_region_name": "12",
+                "start": 94942675,
+                "location": "12:94942675-94942675",
+                "end": 94942675,
+                "coord_system": "chromosome"
+            }
+        ]
+    },
+    {
+        "var_class": "SNP",
+        "minor_allele": "C",
+        "name": "rs807049",
+        "ambiguity": "B",
+        "most_severe_consequence": "non_coding_transcript_exon_variant",
+        "source": "Variants (including SNPs and indels) imported from dbSNP",
+        "synonyms": [
+            "rs1767663"
+        ],
+        "MAF": 0.2694,
+        "evidence": [
+            "Frequency",
+            "1000Genomes",
+            "ESP",
+            "TOPMed",
+            "gnomAD"
+        ],
+        "mappings": [
+            {
+                "assembly_name": "GRCh37",
+                "strand": 1,
+                "allele_string": "T/C/G",
+                "ancestral_allele": "T",
+                "seq_region_name": "10",
+                "start": 102798346,
+                "end": 102798346,
+                "location": "10:102798346-102798346",
+                "coord_system": "chromosome"
+            }
+        ]
+    },
+    {
+        "clinical_significance": [
+            "benign"
+        ],
+        "minor_allele": "G",
+        "most_severe_consequence": "non_coding_transcript_exon_variant",
+        "synonyms": [
+            "rs386598429",
+            "VCV000671561",
+            "RCV000830754"
+        ],
+        "ambiguity": "D",
+        "source": "Variants (including SNPs and indels) imported from dbSNP",
+        "MAF": 0.2949,
+        "var_class": "SNP",
+        "name": "rs535277",
+        "evidence": [
+            "Frequency",
+            "1000Genomes",
+            "ESP",
+            "Phenotype_or_Disease",
+            "TOPMed",
+            "gnomAD"
+        ],
+        "mappings": [
+            {
+                "location": "5:52954514-52954514",
+                "ancestral_allele": "T",
+                "allele_string": "T/A/G",
+                "start": 52954514,
+                "seq_region_name": "5",
+                "assembly_name": "GRCh37",
+                "coord_system": "chromosome",
+                "strand": 1,
+                "end": 52954514
+            }
+        ]
+    },
+    {
+        "var_class": "SNP",
+        "evidence": [
+            "Frequency",
+            "1000Genomes",
+            "Cited",
+            "ESP",
+            "ExAC",
+            "TOPMed",
+            "gnomAD"
+        ],
+        "MAF": 0.2121,
+        "mappings": [
+            {
+                "coord_system": "chromosome",
+                "end": 81232564,
+                "strand": 1,
+                "seq_region_name": "16",
+                "location": "16:81232564-81232564",
+                "assembly_name": "GRCh37",
+                "allele_string": "T/A/G",
+                "ancestral_allele": "T",
+                "start": 81232564
+            }
+        ],
+        "synonyms": [
+            "NP_001070248.1:p.Lys416Ter",
+            "NM_001076780.2:c.1246A>T",
+            "NM_052892.4:c.1246A>T",
+            "NM_001076780.1:c.1246A>T",
+            "NM_052892.4:c.1246A>C",
+            "NM_001076780.2:c.1246A>C",
+            "NM_052892.3:c.1246A>T",
+            "NM_001076780.1:c.1246A>C",
+            "NM_052892.3:c.1246A>C",
+            "NP_001070248.1:p.Lys416Gln",
+            "rs17594471",
+            "rs58986301",
+            "rs386608275",
+            "rs52835002",
+            "VAR_039442"
+        ],
+        "most_severe_consequence": "stop_gained",
+        "minor_allele": "T",
+        "ambiguity": "D",
+        "name": "rs7194871",
+        "source": "Variants (including SNPs and indels) imported from dbSNP"
+    },
+    {
+        "name": "rs1865434",
+        "source": "Variants (including SNPs and indels) imported from dbSNP",
+        "minor_allele": "C",
+        "ambiguity": "Y",
+        "most_severe_consequence": "3_prime_UTR_variant",
+        "evidence": [
+            "Frequency",
+            "1000Genomes",
+            "Cited",
+            "ESP",
+            "ExAC",
+            "TOPMed",
+            "gnomAD"
+        ],
+        "var_class": "SNP",
+        "mappings": [
+            {
+                "allele_string": "C/T",
+                "ancestral_allele": "T",
+                "start": 110408608,
+                "strand": 1,
+                "coord_system": "chromosome",
+                "end": 110408608,
+                "seq_region_name": "13",
+                "assembly_name": "GRCh37",
+                "location": "13:110408608-110408608"
+            }
+        ],
+        "MAF": 0.1775,
+        "synonyms": [
+            "rs60385897",
+            "NM_003749.3:c.*43G>A",
+            "NM_003749.2:c.*43G>A"
+        ]
+    },
+    {
+        "mappings": [
+            {
+                "strand": 1,
+                "assembly_name": "GRCh37",
+                "end": 1701317,
+                "location": "4:1701317-1701317",
+                "coord_system": "chromosome",
+                "seq_region_name": "4",
+                "allele_string": "G/A",
+                "ancestral_allele": "G",
+                "start": 1701317
+            }
+        ],
+        "evidence": [
+            "Frequency",
+            "1000Genomes",
+            "Cited",
+            "ESP",
+            "Phenotype_or_Disease",
+            "ExAC",
+            "TOPMed",
+            "gnomAD"
+        ],
+        "synonyms": [
+            "NM_006527.2:c.453C>T",
+            "NM_001306075.1:c.336C>T",
+            "NM_001306075.2:c.336C>T",
+            "NM_006527.4:c.453C>T",
+            "NM_001306074.1:c.348C>T",
+            "NM_001306074.2:c.348C>T",
+            "NM_006527.3:c.453C>T",
+            "rs60784822",
+            "rs56570242",
+            "rs57166163"
+        ],
+        "source": "Variants (including SNPs and indels) imported from dbSNP",
+        "most_severe_consequence": "synonymous_variant",
+        "ambiguity": "R",
+        "MAF": 0.3896,
+        "var_class": "SNP",
+        "minor_allele": "A",
+        "name": "rs2247341"
+    }
+]
