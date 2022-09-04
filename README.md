@@ -61,6 +61,8 @@ time vcf_annotator_post.py -i small_test_vcf_data.vcf -o output_post_small_test_
 
 ```output_post_small_test_vcf_data.tsv``` is the tsv file output with annotated variants.
 
+6) docker image: see Dockerfile and Makefile to build docker image. Dockerfile documents what python modules need to be installed. See dockerhub dbest to pull the image.
+
 
 Notes:
 1. Depth of sequence coverage at the site of variation.
