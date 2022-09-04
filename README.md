@@ -6,7 +6,8 @@ get annotation for vcf file from EnsEmbl via rest calls
 
 ```
 Usage:
-vcf_annotator_post.py [-h] -i VCF_INPUT -o TSV_OUTPUT -j JSON_OUTPUT [-r SERVER] [-v] [-q] [-m]
+vcf_annotator_post.py [-h] -i VCF_INPUT -o TSV_OUTPUT -j JSON_OUTPUT -p JSON_POPULATION_OUTPUT
+		      [-r SERVER] [-v] [-q] [-m]
 
 get annotation for vcf file
 
@@ -18,6 +19,8 @@ optional arguments:
                         output tsv file
   -j JSON_OUTPUT, --json JSON_OUTPUT
                         output json file
+  -p JSON_POPULATION_OUTPUT, --population JSON_POPULATION_OUTPUT
+                        output json file for population information
   -r SERVER, --server SERVER
                         EnsEMBL server to use (default=https://grch37.rest.ensembl.org)
   -v, --verbose         turn on debugging output
