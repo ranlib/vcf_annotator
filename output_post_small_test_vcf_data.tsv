@@ -1,21 +1,21 @@
 chromosome	position	ref_allele	alt_allele	total_number_of_reads	number_of_reads_with_variant	percent_reads_with_variant	gene_symbol	impact	most_severe_consequence	id	consequence_terms	MAF
 13	26128128	CA	AG	117	113	96.58	Null	Null	Null	Null	Null	Null
-15	73067234	T	C	156	153	98.08	ADPGK	MODIFIER,LOW	synonymous_variant	rs11634630,15:g.73067234T>C	intron_variant,3_prime_UTR_variant,non_coding_transcript_variant,synonymous_variant,NMD_transcript_variant,non_coding_transcript_exon_variant	0.03994
-7	87913361	C	T	189	189	100.0	STEAP4,AC003991.3	MODIFIER,MODERATE	missense_variant	rs1981529,7:g.87913361C>T,CM1111058	intron_variant,missense_variant,non_coding_transcript_variant	0.1488
-19	20735272	T	C	233	122	52.36	CTC-513N18.7,ZNF737	MODIFIER	intron_variant	COSV71200083,19:g.20735272T>C,rs7251976	NMD_transcript_variant,intron_variant,downstream_gene_variant	0.4593
-9	96375814	A	G	135	127	94.07	PHF2	MODIFIER	intron_variant	rs2994367,9:g.96375814A>G,COSV63679778	regulatory_region_variant,intron_variant	0.1829
-2	202469472	A	G	111	111	100.0	ALS2CR11	MODIFIER	intron_variant	2:g.202469472A>G,rs7572583	intron_variant	0.02236
-1	25570081	T	C	418	210	50.24	C1orf63,RP3-465N24.6	MODIFIER,MODERATE	missense_variant	1:g.25570081T>C,COSV54562947,rs1043879	3_prime_UTR_variant,missense_variant,downstream_gene_variant,upstream_gene_variant,NMD_transcript_variant,non_coding_transcript_exon_variant	0.1078
-12	53714496	A	G	106	106	100.0	AAAS	MODIFIER	non_coding_transcript_exon_variant	12:g.53714496A>G,rs4759231	regulatory_region_variant,intron_variant,non_coding_transcript_exon_variant,non_coding_transcript_variant	0.06789
+15	73067234	T	C	156	153	98.08	ADPGK	MODIFIER,LOW	synonymous_variant	15:g.73067234T>C,rs11634630	synonymous_variant,intron_variant,NMD_transcript_variant,non_coding_transcript_exon_variant,non_coding_transcript_variant,3_prime_UTR_variant	0.03994
+7	87913361	C	T	189	189	100.0	STEAP4,AC003991.3	MODIFIER,MODERATE	missense_variant	CM1111058,rs1981529,7:g.87913361C>T	non_coding_transcript_variant,intron_variant,missense_variant	0.1488
+19	20735272	T	C	233	122	52.36	ZNF737,CTC-513N18.7	MODIFIER	intron_variant	rs7251976,COSV71200083,19:g.20735272T>C	NMD_transcript_variant,downstream_gene_variant,intron_variant	0.4593
+9	96375814	A	G	135	127	94.07	PHF2	MODIFIER	intron_variant	COSV63679778,9:g.96375814A>G,rs2994367	regulatory_region_variant,intron_variant	0.1829
+2	202469472	A	G	111	111	100.0	ALS2CR11	MODIFIER	intron_variant	rs7572583,2:g.202469472A>G	intron_variant	0.02236
+1	25570081	T	C	418	210	50.24	C1orf63,RP3-465N24.6	MODIFIER,MODERATE	missense_variant	COSV54562947,1:g.25570081T>C,rs1043879	upstream_gene_variant,downstream_gene_variant,NMD_transcript_variant,non_coding_transcript_exon_variant,3_prime_UTR_variant,missense_variant	0.1078
+12	53714496	A	G	106	106	100.0	AAAS	MODIFIER	non_coding_transcript_exon_variant	rs4759231,12:g.53714496A>G	regulatory_region_variant,non_coding_transcript_variant,non_coding_transcript_exon_variant,intron_variant	0.06789
 14	21190526	ATGGGCT	CTGGGCC	112	51	45.54	Null	Null	Null	Null	Null	Null
 1	204006597	G	A	244	229	93.85	LINC00303	MODIFIER	non_coding_transcript_exon_variant	1:g.204006597G>A,rs4951039	regulatory_region_variant,non_coding_transcript_exon_variant	0.1356
 11	48373976	TATGAATTCTA	GATGAATTCTG	354	115	32.49	Null	Null	Null	Null	Null	Null
-2	20403794	A	T	127	118	92.91	SDC1	MODIFIER,MODERATE	missense_variant	rs10205485,2:g.20403794A>T	non_coding_transcript_exon_variant,missense_variant,downstream_gene_variant,regulatory_region_variant	0.03315
-1	169702772	C	A	227	148	65.2	SELE,C1orf112	MODIFIER	5_prime_UTR_variant	1:g.169702772C>A,rs1805193,CR961737	intron_variant,5_prime_UTR_variant,upstream_gene_variant,non_coding_transcript_variant	0.05491
-15	98932798	C	T	152	150	98.68		MODIFIER	intergenic_variant	rs8033879,15:g.98932798C>T	intergenic_variant	0.4684
+2	20403794	A	T	127	118	92.91	SDC1	MODIFIER,MODERATE	missense_variant	2:g.20403794A>T,rs10205485	regulatory_region_variant,downstream_gene_variant,non_coding_transcript_exon_variant,missense_variant	0.03315
+1	169702772	C	A	227	148	65.2	C1orf112,SELE	MODIFIER	5_prime_UTR_variant	CR961737,1:g.169702772C>A,rs1805193	upstream_gene_variant,5_prime_UTR_variant,non_coding_transcript_variant,intron_variant	0.05491
+15	98932798	C	T	152	150	98.68		MODIFIER	intergenic_variant	15:g.98932798C>T,rs8033879	intergenic_variant	0.4684
 12	94942675	A	G	249	137	55.02	SUCLG2P2	MODIFIER	non_coding_transcript_exon_variant	rs7973666,12:g.94942675A>G	non_coding_transcript_exon_variant	0.2796
-10	102798346	T	C	304	295	97.04	SFXN3	MODIFIER	non_coding_transcript_exon_variant	COSV56521763,10:g.102798346T>C,rs807049	non_coding_transcript_exon_variant,intron_variant,downstream_gene_variant,regulatory_region_variant	0.2694
-5	52954514	T	G	163	162	99.39	NDUFS4	MODIFIER	non_coding_transcript_exon_variant	5:g.52954514T>G,rs535277,COSV57020618	NMD_transcript_variant,intron_variant,non_coding_transcript_exon_variant	0.2949
-16	81232564	T	G	132	129	97.73	PKD1L2	MODIFIER,MODERATE	missense_variant	rs7194871,16:g.81232564T>G	regulatory_region_variant,TF_binding_site_variant,upstream_gene_variant,missense_variant	0.2121
-13	110408608	C	T	114	114	100.0	IRS2,AL162497.1	MODIFIER	3_prime_UTR_variant	COSV65476970,rs1865434,13:g.110408608C>T	3_prime_UTR_variant,upstream_gene_variant	0.1775
-4	1701317	G	A	194	103	53.09	SLBP	LOW	synonymous_variant	COSV59183662,rs2247341,4:g.1701317G>A	synonymous_variant	0.3896
+10	102798346	T	C	304	295	97.04	SFXN3	MODIFIER	non_coding_transcript_exon_variant	10:g.102798346T>C,rs807049,COSV56521763	regulatory_region_variant,downstream_gene_variant,non_coding_transcript_exon_variant,intron_variant	0.2694
+5	52954514	T	G	163	162	99.39	NDUFS4	MODIFIER	non_coding_transcript_exon_variant	COSV57020618,5:g.52954514T>G,rs535277	NMD_transcript_variant,non_coding_transcript_exon_variant,intron_variant	0.2949
+16	81232564	T	G	132	129	97.73	PKD1L2	MODIFIER,MODERATE	missense_variant	rs7194871,16:g.81232564T>G	regulatory_region_variant,upstream_gene_variant,TF_binding_site_variant,missense_variant	0.2121
+13	110408608	C	T	114	114	100.0	AL162497.1,IRS2	MODIFIER	3_prime_UTR_variant	COSV65476970,13:g.110408608C>T,rs1865434	upstream_gene_variant,3_prime_UTR_variant	0.1775
+4	1701317	G	A	194	103	53.09	SLBP	LOW	synonymous_variant	4:g.1701317G>A,COSV59183662,rs2247341	synonymous_variant	0.3896
